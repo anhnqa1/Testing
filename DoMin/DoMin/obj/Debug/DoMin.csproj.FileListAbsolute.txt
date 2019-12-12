@@ -1,0 +1,7 @@
+C:\Users\ASUS\OneDrive\Documents\SharpDevelop Projects\DoMin\DoMin\bin\Debug\DoMin.exe
+C:\Users\ASUS\OneDrive\Documents\SharpDevelop Projects\DoMin\DoMin\bin\Debug\DoMin.pdb
+C:\Users\ASUS\OneDrive\Documents\SharpDevelop Projects\DoMin\DoMin\obj\Debug\DoMin.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\OneDrive\Documents\SharpDevelop Projects\DoMin\DoMin\obj\Debug\DoMin.csproj.GenerateResource.Cache
+C:\Users\ASUS\OneDrive\Documents\SharpDevelop Projects\DoMin\DoMin\obj\Debug\DoMin.exe
+C:\Users\ASUS\OneDrive\Documents\SharpDevelop Projects\DoMin\DoMin\obj\Debug\DoMin.pdb
+C:\Users\ASUS\OneDrive\Documents\SharpDevelop Projects\DoMin\DoMin\obj\Debug\DoMinn.MainForm.resources
